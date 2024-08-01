@@ -7,7 +7,7 @@ unique combination of technical and interpersonal skills.
 
 🔭 I’m currently working on Social Media App For Event Listing<br>🌱 I’m currently learning React<br>📫 Reach me through parthawsthi996@gmail.com<br>📄 Know about my experiences https://drive.google.com/file/d/13NadDi_JVewtGsixLn6gzLzk29QWTuJr/view?usp=sharing<br>❤️ I Love Graphic Designing
 
-
+<br>
 # 🌐 Socials:
 <a href="https://linkedin.com/in/linkedin.com/in/parth-awasthi-67aa01221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/parth-awasthi-67aa01221/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/parthawasthi2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="parthawasthi2003" height="30" width="40" /></a>
