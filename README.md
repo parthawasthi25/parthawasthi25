@@ -24,8 +24,6 @@ unique combination of technical and interpersonal skills.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=parthawasthi25&theme=date_night&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=parthawasthi25&theme=date_night&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=parthawasthi25&theme=date_night&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=parthawasthi25&limit=5&theme=date_night&combine_all_yearly_contributions=true)
