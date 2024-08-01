@@ -10,7 +10,7 @@ unique combination of technical and interpersonal skills.
 <br>
 
 # 🌐 Socials:
-<a href="https://linkedin.com/in/linkedin.com/in/parth-awasthi-67aa01221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/parth-awasthi-67aa01221/" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/linkedin.com/in/parth-awasthi-67aa01221/](https://www.linkedin.com/in/parth-awasthi-67aa01221/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/parth-awasthi-67aa01221/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/parthawasthi2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="parthawasthi2003" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/parthawasthi996" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="parthawasthi996" height="30" width="40" /></a>
 </p>
