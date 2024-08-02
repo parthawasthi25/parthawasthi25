@@ -5,7 +5,7 @@ language, data structures, and algorithms, as well as leadership experience gain
 unique combination of technical and interpersonal skills.
 
 
-🔭 I’m currently working on Social Media App For Event Listing<br>🌱 I’m currently learning React<br>📫 Reach me through parthawsthi996@gmail.com<br>📄 Know about my experiences Resume <a href="https://drive.google.com/file/d/13NadDi_JVewtGsixLn6gzLzk29QWTuJr/view?usp=sharing"</a><br>❤️ I Love Graphic Designing
+🔭 I’m currently working on Social Media App For Event Listing<br>🌱 I’m currently learning React<br>📫 Reach me through parthawsthi996@gmail.com<br>📄 Know about my experiences <a href="https://drive.google.com/file/d/13NadDi_JVewtGsixLn6gzLzk29QWTuJr/view?usp=sharing">Resume</a><br>❤️ I Love Graphic Designing
 
 <br>
 
