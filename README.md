@@ -1,4 +1,5 @@
-# Hi there I am Parth Awasthi.
+# Hi there I am Parth Awasthi
+
 A driven and motivated individual with a passion for computer science, I am eager to apply my skills and knowledge
 to make a meaningful contribution to a dynamic organization. With some handsome experience in C++ programming
 language, data structures, and algorithms, as well as leadership experience gained through my NCC training, I bring a
